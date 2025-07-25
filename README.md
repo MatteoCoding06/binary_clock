@@ -1,6 +1,6 @@
 # 🕒 Binary Clock
 
-Un orologio binario realizzato con **HTML**, **CSS** e **JavaScript** — perfetto per chi ama la programmazione e vuole leggere l'ora in modo geek!
+Un orologio binario realizzato con **HTML**, **CSS** e **JavaScript** — perfetto per chi ama la programmazione e vuole leggere l'ora in modo tech!
 ---
 
 ## 📦 Caratteristiche
