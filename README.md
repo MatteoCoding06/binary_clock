@@ -33,14 +33,18 @@ Ogni cifra viene convertita in binario:
 Le colonne dell’orologio visualizzano ogni cifra in verticale, con le **celle accese = bit 1** e **celle spente = bit 0**.
 
 Ogni colonna è composta da 4 celle:
-● <-- bit 8
+
+○ <-- bit 8
+
 ○ <-- bit 4
+
 ● <-- bit 2
+
 ● <-- bit 1
 
 Per leggere il valore:
 - Somma i valori dei bit accesi
-- Nell’esempio sopra: `8 + 2 + 1 = 11`
+- Nell’esempio sopra: `2 + 1 = 3`
 
 
 
