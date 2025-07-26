@@ -7,7 +7,7 @@ Un orologio binario realizzato con **HTML**, **CSS** e **JavaScript** — perfet
 
 ## 🚀 Demo
 
-🔗 **Live:** [https://matteocoding06.github.io/binary_clock/]([https://TUO_USERNAME.github.io/binary-clock](https://matteocoding06.github.io/binary_clock/))
+🔗 **Live:** [https://matteocoding06.github.io/binary_clock/](https://matteocoding06.github.io/binary_clock/)
 
 ---
 
