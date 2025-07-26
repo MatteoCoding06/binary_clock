@@ -1,6 +1,14 @@
 # 🕒 Binary Clock
 
-Un orologio binario realizzato con **HTML**, **CSS** e **JavaScript** — perfetto per chi ama la programmazione e vuole leggere l'ora in modo tech!
+Un orologio binario realizzato con **HTML**, **CSS** e **JavaScript** — perfetto per chi ama la programmazione e vuole leggere l'ora in modo geek!
+
+
+---
+
+## 🚀 Demo
+
+🔗 **Live:** [https://matteocoding06.github.io/binary_clock/]([https://TUO_USERNAME.github.io/binary-clock](https://matteocoding06.github.io/binary_clock/))
+
 ---
 
 ## 📦 Caratteristiche
@@ -8,6 +16,7 @@ Un orologio binario realizzato con **HTML**, **CSS** e **JavaScript** — perfet
 - ⌛ Mostra ore, minuti e secondi in **formato binario**
 - 💡 Celle luminose indicano i bit attivi
 - 🧠 Perfetto per capire come funziona il sistema binario
+- 📱 Responsive: si adatta a qualsiasi schermo
 
 ---
 
@@ -42,9 +51,10 @@ Ogni colonna è composta da 4 celle:
 
 ● <-- bit 1
 
+
 Per leggere il valore:
 - Somma i valori dei bit accesi
 - Nell’esempio sopra: `2 + 1 = 3`
 
-
+  
 
